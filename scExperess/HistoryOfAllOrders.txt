@@ -1,0 +1,31 @@
+ORDER NUMBER:  5
+Client's name:  member
+Client's ID:  123123123
+Order status: Denied
+Serial number - Product - Amount - Price
+0 - mango - 2 - 16.80
+Total: 70.12
+ORDER NUMBER:  5
+Client's name:  member
+Client's ID:  123123123
+Order status: Approved
+Serial number - Product - Amount - Price
+0 - mango - 2 - 16.80
+Total: 70.12
+
+ORDER NUMBER:  5
+Client's name:  member
+Client's ID:  123123123
+Order status: Approved
+Serial number - Product - Amount - Price
+0 - mango - 2 - 16.80
+Total: 70.12
+
+ORDER NUMBER:  5
+Client's name:  member
+Client's ID:  123123123
+Order status: Denied
+Serial number - Product - Amount - Price
+0 - mango - 2 - 16.80
+Total: 70.12
+
